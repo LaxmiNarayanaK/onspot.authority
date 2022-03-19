@@ -145,7 +145,7 @@ export default function PersistentDrawerLeft() {
           <div style={{ marginLeft: "auto" }}>
             <IconButton aria-label="GitHub" color="inherit">
               <a
-                href="https://github.com/kuluruvineeth/Onspot"
+                href="https://github.com/kuluruvineeth/onspot.authority"
                 target="_blank"
                 rel="noopener noreferrer"
               >

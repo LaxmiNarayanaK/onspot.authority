@@ -1,9 +1,9 @@
 // all server and image constants.
-export const CLIENT_ID = "931605938000-h3ncbkbjnr4pp91240khg2bnbt0c8d14.apps.googleusercontent.com"; // GAPI CLIENT ID
+export const CLIENT_ID = "931605938000-97i1c1n8np75cofes8up3e4eje9m2q1d.apps.googleusercontent.com"; // GAPI CLIENT ID
 export const GOOGLE_MAPS_API_KEY = "AIzaSyCjcr4UkZIMv8ncU8-6_77Jk8q7IugpH0g"; // GOOGLE MAPS API KEY
 export const AWS_SERVER_DOMAIN = "https://www.onspot.click"; // HTTPS FLASK SERVER URL
-export const HOST_NAME = "http://localhost:3000"; // DEPLOYED REACT APP URL
-export const UA_LOGIN = "http://localhost:3000"; // UNAUTHORIZED LOGIN PAGE URL
+export const HOST_NAME = "http://localhost:3001"; // DEPLOYED REACT APP URL
+export const UA_LOGIN = "http://localhost:3001"; // UNAUTHORIZED LOGIN PAGE URL
 export const SUBMIT_REPORT_COMMENT =
   AWS_SERVER_DOMAIN + "/api/submit/report/comment";
 export const GET_REPORT_COMMENTS = AWS_SERVER_DOMAIN + "/api/reports/comments";
