@@ -2,8 +2,6 @@
 
 # Onspot - An AI Powered Secured Utility Complaint System Cloud Computing
 
-## Onspot Citizen Web/Mobile App
-
 
 ### Introduction
 
