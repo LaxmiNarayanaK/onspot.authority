@@ -174,10 +174,6 @@ https://docs.npmjs.com/downloading-and-installing-node-js-and-npm.
  * Report link: [Onspot_Report](https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report.pdf)
  * Visit http://localhost:3000 in your browser to see onspot citizen's application running.
   
-### Deploying 
-* In doubt to keep or not.
-
-
 ### Future Scope
 * Severity based Direction Renderer.
 * Adding Additional Parameters to the Frontend after Implemented in the Backend. (Pothole Dimensions) 
