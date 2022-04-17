@@ -18,7 +18,7 @@
 ### An Overview of our App
 
 #### From Figma designs to Reality!
-- To keep gif
+![](https://github.com/kuluruvineeth/onspot/blob/main/public/Screenshots/GiFs/Authority%20GIF.gif)
 
 ### Project URLs and Overview
 
