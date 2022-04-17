@@ -169,18 +169,10 @@ The Authority's Application has been Divided into 5 Major Sections.
 ### Instructions to Set-Up the Authority Application
  * Follow the instructions on this page to install nodejs and npm. Once successfully done, proceed to the steps that follow.
 https://docs.npmjs.com/downloading-and-installing-node-js-and-npm.
- * On your terminal.
-
-
-* Steps to be kept
-
-
-
-
-
-
-
-* Visit http://localhost:3000 in your browser to see onspot Authority's application running.
+ * Clone the respective repos of Citizen and Authority.
+ * Please refer the steps mentioned in the report. 
+ * Report link: [Onspot_Report](https://github.com/kuluruvineeth/onspot/blob/main/Major%20Project%20Report/Major-Project_Report.pdf)
+ * Visit http://localhost:3000 in your browser to see onspot citizen's application running.
   
 ### Deploying 
 * In doubt to keep or not.
