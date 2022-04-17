@@ -160,7 +160,7 @@ The Authority's Application has been Divided into 5 Major Sections.
   
 #### System Level Design 
  
- <img src="https://github.com/kuluruvineeth/onspot.authority/tree/main/public/Screenshots/SystemDiagram" alt="Authority"/>
+ <img src="https://github.com/kuluruvineeth/onspot.authority/blob/main/public/Screenshots/SystemDiagram/ONSPOT_authorities.png" alt="Authority"/>
 
 ### Technology Stack (For both Frontend and Backend)
 
