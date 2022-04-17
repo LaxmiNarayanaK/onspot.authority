@@ -158,7 +158,7 @@ The Authority's Application has been Divided into 5 Major Sections.
   * OAuth2.0 Unsplash Logout Local Storage. 
   * An important point to note is that in the authority's app the ouath api has been linked to a stand alone database to authorize authority log-ins. 
   
-#### System Level Design 
+### ONSPOT System Level Design 
  
  <img src="https://github.com/kuluruvineeth/onspot.authority/blob/main/public/Screenshots/SystemDiagram/ONSPOT_authorities.png" alt="Authority"/>
 
