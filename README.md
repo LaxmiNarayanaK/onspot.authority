@@ -159,8 +159,8 @@ The Authority's Application has been Divided into 5 Major Sections.
   * An important point to note is that in the authority's app the ouath api has been linked to a stand alone database to authorize authority log-ins. 
   
 #### System Level Design 
-
-- To be edited and kept
+ 
+ <img src="https://github.com/kuluruvineeth/onspot.authority/tree/main/public/Screenshots/SystemDiagram" alt="Authority"/>
 
 ### Technology Stack (For both Frontend and Backend)
 
