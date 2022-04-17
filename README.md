@@ -25,7 +25,7 @@
 #### Application demo
 - Link to our demo application: https://onspot.click/onspot/
 #### Presentation
-- Link to Google slides Presentation: [ONPSOT PRESENTATION](https://docs.google.com/presentation/d/11WXTHG384vmLA67QShnrbcqOba3xjXWjqkf6utVPv64/edit#slide=id.g111b81d1d86_3_5)
+- Link to Google slides Presentation: [ONPSOT PRESENTATION](https://docs.google.com/presentation/d/1P4Lt6fRdd12uCuXuqxzsjmyRdCz3H8l3z4aSzKe88ys/edit#slide=id.p)
 
 #### Authority App Repository 
 - Link to Authority App's Repository: https://github.com/kuluruvineeth/onspot.authority
