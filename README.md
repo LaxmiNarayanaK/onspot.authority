@@ -23,8 +23,7 @@
 ### Project URLs and Overview
 
 #### Application demo
-- Link to our demo application: [Onspot](https://drive.google.com/file/d/1vJKpptfbFEZm9mZFGpB1IJuM0eVFpSxD/view?usp=sharing)
-
+- Link to our demo application: https://onspot.click/onspot/
 #### Presentation
 - Link to Google slides Presentation: [ONPSOT PRESENTATION](https://docs.google.com/presentation/d/11WXTHG384vmLA67QShnrbcqOba3xjXWjqkf6utVPv64/edit#slide=id.g111b81d1d86_3_5)
 
